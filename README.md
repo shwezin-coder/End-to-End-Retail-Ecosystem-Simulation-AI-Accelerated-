@@ -1,8 +1,3 @@
-To make your GitHub README professional and attractive to recruiters, it needs to balance technical depth with clear business impact. Since you are selling this dataset, the README should act like a "Product Landing Page."
-
-Here is the rewritten version, followed by the specific locations for your images.
-
----
 
 # End-to-End Retail Ecosystem Simulation (AI-Accelerated)
 
